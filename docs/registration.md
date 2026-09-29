@@ -5,7 +5,7 @@ order: 2
 
 # 参加登録
 
-[こちら]()のフォームより申し込みください。
+[こちら](https://docs.google.com/forms/d/e/1FAIpQLSdkcy57VxXeXyEYxiHpKxMEEpQEUep1f-AaUfE_rTbmVyM-gA/viewform?usp=dialog)のフォームより申し込みください。
 
 ## 申込期限
 
