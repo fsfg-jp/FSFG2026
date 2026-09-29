@@ -1,0 +1,27 @@
+site_name: 初代星・初代銀河研究会
+site_url: https://fsfg-jp/FSFG2026
+
+nav:
+  - ホーム: index.md
+
+theme:
+  name: bootstrap
+  features:
+    - navigation.top # 左ナビ消す
+#  custom_dir: docs/overrides
+
+markdown_extensions:
+  - md_in_html
+
+extra_css:
+  - stylesheets/extra.css
+
+plugins:
+  - include-markdown
+
+markdown_extensions:
+  - pymdownx.arithmatex:
+      generic: true
+
+extra_javascript:
+  - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
