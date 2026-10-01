@@ -10,7 +10,7 @@
 
 ## 会場
 
-九州大学 伊都キャンパス 稲森財団記念館１階 稲森ホール ([交通アクセス](https://www.kyushu-u.ac.jp/ja/campus/ito), [キャンパスマップ](https://www.kyushu-u.ac.jp/f/65722/ITO_1_Jp.pdf)の52番)
+九州大学 伊都キャンパス 稲盛財団記念館１階 稲盛ホール ([交通アクセス](https://www.kyushu-u.ac.jp/ja/campus/ito), [キャンパスマップ](https://www.kyushu-u.ac.jp/f/65722/ITO_1_Jp.pdf)の52番)
 
 〒819-0395 福岡市西区元岡744 
 
@@ -35,15 +35,15 @@
 
 この分野に関心のある方や、これから研究を始めたい学生・若手研究者の参加も歓迎します。皆様の積極的なご参加をお待ちしています。
 
-## 基調講演者（50音順・敬称略）
+## 招待講演者（敬称略、予定）
 
 - Ken Chen (Academia Sinica Institute of Astronomy and Astrophysics): Population III and extremely metal-poor binary stars
 - Myoungwon Jeon (Kyung Hee University): 初代星・初代銀河
 - Jongwon Park (Yonsei University): 初代星
 - 斎藤貴之 (神戸大学): 初代銀河
 - 守屋尭 (国立天文台): 高赤方偏移突発天体
+- 森下貴弘 (東北大学): 高赤方偏移銀河観測 ※他研究会との日程調整中
 - 島尻芳人 (九州共立大学): ハブ・フィラメント構造と星形成
-<!-- - 森下貴弘 (東北大学): 高赤方偏移銀河観測 ※他研究会との日程調整中 -->
 
 このほかの招待講演についても現在調整中です。講演題目等の詳細は、研究会ホームページおよび今後のサーキュラーでお知らせします。
 
