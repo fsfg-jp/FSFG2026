@@ -5,6 +5,7 @@ nav:
   - ホーム: index.md
   - 参加登録: registration.md
   - リンク: link.md
+  - English: https://fsfg-jp.github.io/FSFG_2026/
 
 theme:
   name: cosmo
