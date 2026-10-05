@@ -37,7 +37,7 @@
 
 ## 招待講演者（敬称略、予定）
 
-- Ken Chen (Academia Sinica Institute of Astronomy and Astrophysics): Population III and extremely metal-poor binary stars
+- Ke-Jung (Ken) Chen (ASIAA): The First Stars, Binaries, and Supernovae
 - Myoungwon Jeon (Kyung Hee University): 初代星・初代銀河
 - Jongwon Park (Yonsei University): 初代星
 - 斎藤貴之 (神戸大学): 初代銀河
