@@ -39,10 +39,10 @@
 
 - Ke-Jung (Ken) Chen (ASIAA): The First Stars, Binaries, and Supernovae
 - Myoungwon Jeon (Kyung Hee University): 初代星・初代銀河
-- Jongwon Park (Yonsei University): 初代星
+- Jongwon Park (Kyung Hee University): 初代星
 - 斎藤貴之 (神戸大学): 初代銀河
 - 守屋尭 (国立天文台): 高赤方偏移突発天体
-- 森下貴弘 (東北大学): 高赤方偏移銀河観測 ※他研究会との日程調整中
+- 森下貴弘 (東北大学): 高赤方偏移銀河観測 
 - 島尻芳人 (九州共立大学): ハブ・フィラメント構造と星形成
 
 このほかの招待講演についても現在調整中です。講演題目等の詳細は、研究会ホームページおよび今後のサーキュラーでお知らせします。

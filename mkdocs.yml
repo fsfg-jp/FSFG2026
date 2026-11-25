@@ -3,6 +3,7 @@ site_url: https://fsfg-jp.github.io/FSFG2026/
 
 nav:
   - ホーム: index.md
+  - プログラム: program.md
   - 参加登録: registration.md
   - リンク: link.md
   - English: https://fsfg-jp.github.io/FSFG_2026/
