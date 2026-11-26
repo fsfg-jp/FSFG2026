@@ -61,7 +61,7 @@
 <tr class="talk"><td class="time">14:05</td><td class="who"><span class="speaker">Maria Arima（有馬鞠杏）</span><span class="affil">University of Tsukuba</span></td><td class="title">Physical Processes of High-Redshift Galactic Outflows and Their Implications for Galaxy Formation</td></tr>
 <tr class="break"><td class="time">14:25–14:40</td><td colspan="2">休憩</td></tr>
 <tr class="session"><td colspan="3">Galaxy Formation</td></tr>
-<tr class="talk invited"><td class="time">14:40</td><td class="who"><span class="speaker">Takayuki Saitoh（斎藤貴之）</span><span class="badge-invited">招待講演</span><span class="affil">Kobe University</span></td><td class="title"><span class="tbd">タイトル未定</span></td></tr>
+<tr class="talk invited"><td class="time">14:40</td><td class="who"><span class="speaker">Takayuki Saitoh（斎藤貴之）</span><span class="badge-invited">招待講演</span><span class="affil">Kobe University</span></td><td class="title">Simulating Early Galaxy Formation: Starbursts, Star clusters, and Chemical enrichment</td></tr>
 <tr class="talk invited"><td class="time">15:25</td><td class="who"><span class="speaker">Myoungwon Jeon</span><span class="badge-invited">招待講演</span><span class="affil">Kyung Hee University</span></td><td class="title"><span class="tbd">タイトル未定</span></td></tr>
 <tr class="break"><td class="time">16:10–16:20</td><td colspan="2">休憩</td></tr>
 <tr class="session"><td colspan="3">Black Hole Accretion and Little Red Dots</td></tr>
